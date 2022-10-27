@@ -1,8 +1,9 @@
 {
   "name": "krio-app",
   "version": "1.0.0",
-  "description": "REST API that sends Krio words / Phrases",
+  "description": "This app will generate the translation of Krio words and phrases to English",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
